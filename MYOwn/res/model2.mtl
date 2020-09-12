@@ -1,0 +1,563 @@
+# Blender MTL File: 'None'
+# Material Count: 49
+
+newmtl 0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakebody.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakebody.png
+
+newmtl arm_ring
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\ring.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\ring.png
+
+newmtl armthings
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+
+newmtl armthings.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+
+newmtl backplate
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\back.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\back.png
+
+newmtl bangs
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakehair.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakehair.png
+
+newmtl blush.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl boots1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\boot.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\boot.bmp
+
+newmtl boots2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\boot2.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\boot2.bmp
+
+newmtl bow
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\bow.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\bow.png
+
+newmtl button
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\metal.sph
+
+newmtl cat_ears
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\ears.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\ears.png
+
+newmtl expressiondetails.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl eye.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\eyebl.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\eyebl.png
+
+newmtl eyebackground.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl eyebrows.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl face.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakef.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakef.png
+
+newmtl facedetails.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl lace
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\lace.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\lace.png
+
+newmtl mmd_tools_rigid_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.498039 0.866667 0.831373
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.941176 0.901961 0.549020
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_10
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.352941 0.588235 0.305882
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_11
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.901961 0.749020 0.670588
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_12
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.827451 0.219608 0.109804
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_13
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.086275 0.368627 0.513726
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.933333 0.509804 0.933333
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.560784 0.933333 0.933333
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_6
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.980392 0.501961 0.447059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_7
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.576471 0.439216 0.858824
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_8
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.250980 0.878431 0.815686
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mmd_tools_rigid_9
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.588235 0.317647 0.301961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 1
+
+newmtl mouthinside.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakeface.png
+
+newmtl neck.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\neck.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\neck.png
+
+newmtl scarf
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\scarf.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\scarf.png
+
+newmtl shirt
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+
+newmtl shorts1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shorts.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shorts.png
+
+newmtl shorts2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shorts.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shorts.png
+
+newmtl sleeve
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+
+newmtl tailcoat1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\vest.png
+
+newmtl tailcoat2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\tailcoat.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\tailcoat.png
+
+newmtl tights
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\tights.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\tights.png
+
+newmtl whiteshirt
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shirt.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shirt.png
+
+newmtl 新規.009
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\black.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\black.png
+
+newmtl 新規.010
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\emblem.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\emblem.png
+
+newmtl 新規.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 新規.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakef.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakef.png
+
+newmtl 新規.013
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shortsshad.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shortsshad.png
+
+newmtl 新規.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shortsshad.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\shortsshad.png
+
+newmtl 材質1.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakehair.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Blake Belladonna\\blakehair.png

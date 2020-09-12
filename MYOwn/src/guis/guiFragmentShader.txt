@@ -1,0 +1,14 @@
+# version 400 core
+
+in vec2 pass_texturecoords;
+
+uniform sampler2D textureSampler;
+
+out vec4 out_Color;
+void main(void)
+{
+	vec4 finalColor = texture(textureSampler,pass_texturecoords);
+	if(finalColor.a<0.5)
+		discard;
+	out_Color = texture(textureSampler,pass_texturecoords);
+}

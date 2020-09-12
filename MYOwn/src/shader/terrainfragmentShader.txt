@@ -1,0 +1,40 @@
+#version 400 core
+
+in vec2 pass_texturecoords;
+in vec3 surfacenormal;
+in vec3 tolightvector;
+
+uniform vec3 lightcolor;
+uniform sampler2D backgroundtexture;
+uniform sampler2D rtexture;
+uniform sampler2D gtexture;
+uniform sampler2D btexture;
+uniform sampler2D blendmap;
+
+
+out vec4 out_Color;
+
+void main(void){
+	vec3 unitsurfacenormal = normalize(surfacenormal);
+	vec3 unittolightvector = normalize(tolightvector);
+	
+	float ndot = dot(unitsurfacenormal,unittolightvector);
+	float brightness = max(ndot,0.0);
+	
+	vec4 blendmapcolor = texture(blendmap,pass_texturecoords);
+	float backgroundamount = 1-(blendmapcolor.r+blendmapcolor.g+blendmapcolor.b);
+	
+	vec2 tiledcoords = 40.0*pass_texturecoords;
+	float x = fract(tiledcoords.x);
+	float y = fract(tiledcoords.y);
+	vec4 backgroundcolor = texture(backgroundtexture,tiledcoords) * backgroundamount;
+	vec4 rcolor = texture(rtexture,tiledcoords) * blendmapcolor.r;
+	vec4 gcolor = texture(gtexture,tiledcoords) * blendmapcolor.g;
+	vec4 bcolor = texture(btexture,tiledcoords) * blendmapcolor.b;
+	vec4 totalcolor = backgroundcolor + rcolor + gcolor + bcolor;
+	vec3 diffuse = brightness * lightcolor;
+	vec4 finalcolor = vec4(diffuse,1.0)*totalcolor;
+	
+	out_Color = finalcolor;
+	
+}

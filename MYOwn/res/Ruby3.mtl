@@ -1,0 +1,562 @@
+# Blender MTL File: 'None'
+# Material Count: 48
+
+newmtl blush
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl expressiondetails
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl eye
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\eyyyy.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\eyyyy.png
+
+newmtl eyebackground
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\eyebase.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\eyebase.bmp
+
+newmtl eyebrows
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl face
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl facedetails
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl mouthinside
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl neck
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl 新規
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+
+newmtl 新規.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+
+newmtl 新規.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+
+newmtl 新規.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\metal.sph
+
+newmtl 新規.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\pocket.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\pocket.bmp
+
+newmtl 新規.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.123529 0.123529 0.123529
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+
+newmtl 新規.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.401569 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+
+newmtl 新規.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 新規.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.990000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\rubyface.png
+
+newmtl 服下
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\sf.bmp
+
+newmtl 服下.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.940000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+
+newmtl 材質0.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+
+newmtl 材質0.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\symbol.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\symbol.png
+
+newmtl 材質0.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.602353 0.602353 0.602353
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\metal.sph
+
+newmtl 材質0.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\pocket.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\pocket.bmp
+
+newmtl 材質0.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\shart2.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\shart2.bmp
+
+newmtl 材質0.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.200784 0.000000 0.000000
+Ks 0.258824 0.045098 0.041176
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質0.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.607373 0.602353
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999990
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+
+newmtl 材質1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\legs.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\legs.bmp
+
+newmtl 材質1.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+
+newmtl 材質1.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\belt colour.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\belt colour.bmp
+
+newmtl 材質1.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.123529 0.123529 0.123529
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質1.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\brak.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\brak.png
+
+newmtl 材質1.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.579765
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質13
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\skin.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\skin.png
+
+newmtl 材質14
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\kami.bmp
+
+newmtl 材質2.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.629961 0.597334
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+
+newmtl 材質28
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+
+newmtl 材質29
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+
+newmtl 材質3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.401569 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質3.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.607373 0.597334
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.999900
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\boot.bmp
+
+newmtl 材質3.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\crus.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\crus.png
+
+newmtl 材質4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質4.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.123529 0.103922 0.090196
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質5
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\reds.bmp
+
+newmtl 材質5.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\hood.png
+map_d C:\\Users\\user\\Desktop\\總資料\\RWBY\\Ruby Rose\\hood.png
+
+newmtl 材質6
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

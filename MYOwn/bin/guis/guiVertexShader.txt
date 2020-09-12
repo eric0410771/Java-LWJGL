@@ -1,0 +1,12 @@
+#version 140
+
+in vec2 position;
+out vec2 pass_texturecoords;
+
+uniform mat4 transformmatrix;
+
+void main(void)
+{
+	gl_Position = transformmatrix * vec4(position,0.0,1.0);
+	pass_texturecoords = vec2((position.x+1)/2,1-(position.y+1)/2);
+}
